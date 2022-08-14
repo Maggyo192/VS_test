@@ -1,0 +1,3 @@
+﻿  ソース.cpp
+C:\git\VS_test\VS_test\ソース.cpp(1,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+  VS_test.vcxproj -> C:\git\VS_test\VS_test\x64\Debug\VS_test.exe
